@@ -1,0 +1,23 @@
+.mytitle {
+    color: red;
+}
+h3 {
+    font-family: "Times New Roman", sans-serif;
+    font-size: 22px;
+    color: blue;
+}
+
+div {
+    color: white;
+    background-color: darkorange;
+}
+p {
+    font-family: "Times New Roman", sans-serif;
+    color: black;
+    font-size: 16px;
+    text-align: centre;
+}
+#mainimg {
+    width: auto;
+    height: 200px;
+}
