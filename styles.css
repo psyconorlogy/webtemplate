@@ -1,15 +1,35 @@
+* {
+    border: 2px solid black;
+    padding: 0px;
+    margin: 20px;
+}
+
 .mytitle {
     color: red;
+    position: center;
+    text-align: center;
 }
+
+.main-img {
+    margin: 0 auto;
+    width: 2000px auto;
+}
+
 h3 {
     font-family: "Times New Roman", sans-serif;
     font-size: 22px;
     color: blue;
+
 }
 
 div {
     color: white;
     background-color: darkorange;
+}
+.top-header {
+    width: auto;
+    height: 100px;
+    background-color: gray;
 }
 p {
     font-family: "Times New Roman", sans-serif;
@@ -17,7 +37,10 @@ p {
     font-size: 16px;
     text-align: centre;
 }
-#mainimg {
-    width: auto;
-    height: 200px;
+
+img {
+    width: 50%;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
 }
