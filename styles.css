@@ -5,6 +5,10 @@
     max-width: 800px;
 }
 
+body {
+    height: 0px auto;
+}
+
 .mytitle {
     color: red;
     position: center;
@@ -22,6 +26,8 @@ div {
     color: white;
     background-color: darkorange;
     padding: 10px;
+    margin: 16px auto;
+    width: 666px;
 }
 
 .top-header {
@@ -32,6 +38,12 @@ div {
 
 .header {
 
+}
+
+.list {
+    font-family: "Times New Roman", sans-serif;
+    font-size: 22px;
+    color: blue;
 }
 
 p {
