@@ -1,18 +1,14 @@
 * {
     border: 2px solid black;
     padding: 0px;
-    margin: 20px;
+    margin: 25px;
+    max-width: 800px;
 }
 
 .mytitle {
     color: red;
     position: center;
     text-align: center;
-}
-
-.main-img {
-    margin: 0 auto;
-    width: 2000px auto;
 }
 
 h3 {
@@ -25,12 +21,19 @@ h3 {
 div {
     color: white;
     background-color: darkorange;
+    padding: 10px;
 }
+
 .top-header {
     width: auto;
-    height: 100px;
+    height: 150px;
     background-color: gray;
 }
+
+.header {
+
+}
+
 p {
     font-family: "Times New Roman", sans-serif;
     color: black;
@@ -41,6 +44,6 @@ p {
 img {
     width: 50%;
     height: auto;
-    margin-right: auto;
-    margin-left: auto;
+    margin-right: 200px;
+    margin-left: 150px;
 }
